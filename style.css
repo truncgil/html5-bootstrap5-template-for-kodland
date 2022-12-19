@@ -1,0 +1,48 @@
+  .banner {
+    background:url('images/background.png') ;
+    background-color:#ffbf69  ;
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .banner h1 {
+    font-size:6em;
+    font-weight:bolder;
+  }
+  .banner .btn {
+    width:200px;
+  }
+  header .nav-link {
+    text-transform: uppercase;
+  }
+  .section-2 {
+    background-color:#cdf4f0
+  }
+  .section-2 img {
+    width:150px;
+
+  }
+  .section-3 {
+    background:url('images/bg-grid.png') ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .section-2 p {
+    font-size:14px;
+    margin:10px 0;
+  }
+  h2 {
+    font-size:30px;
+    font-weight:bolder;
+  }
+  nav {
+    background-color:#ffbf69 !important;
+  }
+
+  footer  li {
+    float:left;
+
+  }
+
